@@ -16,15 +16,12 @@ public class TestDataBuild {
 		p.setName(name);
 		p.setAddress(address);
 		p.setLanguage(language);
-		p.setPhone_number("(+91) 222 222 3937");
+		p.setPhone_number("(+91) 999 898 3937");
 		p.setWebsite("http://google.com");
 		
 		List<String> myList= new ArrayList();
 		myList.add("shoe park");
 		myList.add("shop");
-		myList.add("shop1");
-		myList.add("shop2");
-		myList.add("shop3");
 		p.setTypes(myList);
 		
 		Location l=new Location();
