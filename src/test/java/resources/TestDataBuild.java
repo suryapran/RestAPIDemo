@@ -22,7 +22,7 @@ public class TestDataBuild {
 		List<String> myList= new ArrayList();
 		myList.add("shoe park");
 		myList.add("shop");
-		myList.add("cnhge in restaidemo master");
+		myList.add("cnhge in mygitx master");
 		p.setTypes(myList);
 		
 		Location l=new Location();
